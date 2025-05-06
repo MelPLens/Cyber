@@ -16,7 +16,7 @@ Neste repositório armazena atividades da Matéria de CiberSegurança:
 
 2. **Clonar o Repositório (se aplicável):**
    ```bash
-   git clone
+   git clone https://github.com/MelPLens/Cyber.git
 
 
 
